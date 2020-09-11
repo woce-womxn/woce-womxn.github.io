@@ -132,7 +132,7 @@ header a:hover{
     color: rgb(0, 0, 0);
 }*/
 
-@keyframes rotateWordsFirst {
+/*@keyframes rotateWordsFirst {
     0% { opacity: 1; animation-timing-function: easi-in; height: 0px; }
     8% { opacity: 1; height: 60px; }
     19% { opacity: 1; height: 60px; }
@@ -146,7 +146,7 @@ header a:hover{
 	20% { opacity: 1; width: 100%; }
     27% { opacity: 0; width: 100%; }
     100% { opacity: 0; }
-}
+}*/
 
 /* Newsletter */
 #newsletter{
