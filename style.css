@@ -72,8 +72,8 @@ header a:hover{
 
 /* Showcase */
 .rw-wrapper {
-    width: 80%;
-    position: relative; left: 170px;
+    width: 60%;
+    position: relative; left: 200px;
     margin: 110px auto 0 auto;
     font-family: 'Bree Serif';
     padding: 10px;
@@ -87,8 +87,8 @@ header a:hover{
 
 .rw-sentence span{
     color: rgb(147, 104, 175);
-    white-space: nowrap;
-    font-size: 130%;
+    White-space: nowrap;
+    font-size: 120%;
     font-weight: normal;
 }
 
@@ -102,7 +102,7 @@ header a:hover{
     opacity: 0%;
     overflow: hidden;
     width: 50%;
-    color: #aaa0b1;
+    color: #000000;
 }
 
 .rw-words-1 span{
@@ -111,8 +111,8 @@ header a:hover{
 .rw-words-2 span{
     animation: rotateWordsSecond 18s linear infinite 0s;
 }
-.rw-words span:nth-child(2) {
-    animation-delay: 3s;
+/*.rw-words span:nth-child(2) {
+    animation-delay: 0s;
     color: #868585;
 }
 .rw-words span:nth-child(3) {
@@ -130,7 +130,7 @@ header a:hover{
 .rw-words span:nth-child(6) {
     animation-delay: 15s;
     color: rgb(0, 0, 0);
-}
+}*/
 
 @keyframes rotateWordsFirst {
     0% { opacity: 1; animation-timing-function: easi-in; height: 0px; }
