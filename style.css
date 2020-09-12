@@ -230,7 +230,7 @@ footer{
   height: 100%;
   
   transform: translateX( 700px );
-  background-image: url( https://live.staticflickr.com/65535/50330962327_3ea3c1ccdc_z.jpg );
+  background-image: url( https://live.staticflickr.com/65535/50332445632_99ec904e09_z.jpg );
   
   animation: opaqTransition 28s cubic-bezier(0, 0, 0, 0.97) infinite;
 }
@@ -238,7 +238,7 @@ footer{
 
 .card_part.card_part-two {
   z-index: 6;
-  background-image: url( https://live.staticflickr.com/65535/50248995147_1ef02830dc_z.jpg );
+  background-image: url( https://live.staticflickr.com/65535/50331320428_4d77da9144_z.jpg );
   animation-delay: 7s;
 }
 
