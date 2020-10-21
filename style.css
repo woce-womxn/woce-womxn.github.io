@@ -28,16 +28,16 @@ body{
     overflow: hidden;
 }
 
-/*ul{
+ul{
     margin: 0;
     padding: 0;
-}*/
+}
 
 /* Header */
 header{
     background: #353637;
     color: #ffffff;
-    text-align: center;
+    /*text-align: center;*/
     padding-top: 30px;
     min-height: 70px;
     border-bottom: #51238d 3px solid;
@@ -48,8 +48,8 @@ header a{
     text-decoration: none;
     text-transform: uppercase;
     font-size: 16px;
-    float: center;
-    text-align: center;
+    /*float: center;
+    text-align: center;*/
 }
 
 header li{
@@ -76,10 +76,10 @@ header .highlight, header .current a{
     font-weight: bold;
 }
 
-/*header a:hover{
+header a:hover{
     color: #cccccc;
     font-weight: bold;
-}*/
+}
 
 /* Showcase */
 .rw-wrapper {
