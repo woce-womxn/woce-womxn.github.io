@@ -28,10 +28,10 @@ body{
     overflow: hidden;
 }
 
-ul{
+/*ul{
     margin: 0;
     padding: 0;
-}
+}*/
 
 /* Header */
 header{
@@ -39,7 +39,7 @@ header{
     color: #ffffff;
     text-align: center;
     padding-top: 30px;
-    min-height: 70px;
+    /*min-height: 70px;*/
     border-bottom: #51238d 3px solid;
 }
 
@@ -48,12 +48,12 @@ header a{
     text-decoration: none;
     text-transform: uppercase;
     font-size: 16px;
-    float: left;
+    float: center;
     text-align: center;
 }
 
 header li{
-    float: left;
+    /*float: left;*/
     display: inline;
     padding: 0 20px 0 20px;
 }
@@ -76,10 +76,10 @@ header .highlight, header .current a{
     font-weight: bold;
 }
 
-header a:hover{
+/*header a:hover{
     color: #cccccc;
     font-weight: bold;
-}
+}*/
 
 /* Showcase */
 .rw-wrapper {
